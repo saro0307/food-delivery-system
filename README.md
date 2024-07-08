@@ -59,7 +59,7 @@ The Food Delivery System is a web application designed to streamline the process
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
